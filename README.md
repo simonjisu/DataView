@@ -2,7 +2,7 @@
 
 ## Data Description
 
-한국 도로공사 공동데이텉 포털(http://data.ex.co.kr/)의 데이터 활용
+한국 도로공사 공동데이텉 포털([http://data.ex.co.kr/](http://data.ex.co.kr/))의 데이터 활용
 
 ## 필요조건
 

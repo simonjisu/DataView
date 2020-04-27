@@ -29,7 +29,7 @@ $ jupyter notebook
 
 jupyter notebook이 켜지면 아래 사진 모양 클릭
 
-<img src="https://drive.google.com/uc?id=1sK-6PYqrUodwHHym8717utRZb3PJhj1Z" width="640" height="320">
+<img src="https://drive.google.com/uc?id=1sK-6PYqrUodwHHym8717utRZb3PJhj1Z" width="640" height="100">
 
 ## 접속법 2
 

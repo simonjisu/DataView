@@ -1,16 +1,10 @@
 # voila-example
 
-## Data Description
+At some documents, you will need Nanum Font to see korean fonts("네이버"의 나눔바른고딕 TTF: [link](https://hangeul.naver.com/font))
 
-한국 도로공사 공동데이텉 포털([http://data.ex.co.kr/](http://data.ex.co.kr/))의 데이터 활용
+## Needed Packages: 
 
-## 필요조건
-
-그림에 한글이 필요하기 때문에 "네이버"의 나눔바른고딕 TTF 설치후 진행([링크](https://hangeul.naver.com/font))
-
-## 설치법: 
-
-터미널에서
+In the terminal, type like below.
 
 ```
 $ pip install numpy
@@ -19,23 +13,28 @@ $ pip install pandas
 $ pip install voila
 ```
 
-## 접속법 1
+## How to Start 1
 
-터미널에서
+In the terminal, type like below.
 
 ```
 $ jupyter notebook
 ```
 
-jupyter notebook이 켜지면 아래 사진 모양 클릭
+Click the "Voila" button in your jupyter notebook.
 
 <img src="https://drive.google.com/uc?id=1sK-6PYqrUodwHHym8717utRZb3PJhj1Z" width="640" height="100">
 
-## 접속법 2
+## How to Start 2
 
-터미널에서
+In the terminal, type like below.
 
 ```
-$ voila Traffic.ipynb
+$ voila 01_Traffic.ipynb
 ```
 
+
+## Data Description
+
+* `alldata_groupby.csv` >`01_Traffic.ipynb` 한국 도로공사 공동데이텉 포털([http://data.ex.co.kr/](http://data.ex.co.kr/))의 데이터 활용
+* `result.csv` > `02_Test Report for model Analysis.ipynb`

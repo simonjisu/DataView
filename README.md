@@ -1,6 +1,16 @@
 # voila-example
 
+You can see how to using ipython `widgets` packages in Google Colaboratory, otherwise see how to render it by voila at local machine.
+
 At some documents, you will need Nanum Font to see korean fonts("네이버"의 나눔바른고딕 TTF: [link](https://hangeul.naver.com/font))
+
+## Quick Start with Colab
+
+|Notebook|Colab link|
+|--|--|
+|01_Traffic.ipynb| Not ready for it|
+|02_Test Report for model Analysis.ipynb| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simonjisu/voila-example/blob/master/02_Test%20Report%20for%20model%20Analysis.ipynb)|
+
 
 ## Needed Packages: 
 
